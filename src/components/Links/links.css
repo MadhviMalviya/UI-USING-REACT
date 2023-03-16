@@ -1,0 +1,12 @@
+.links{
+    display: flex;
+    gap: 15px;
+    font-size: xx-small;
+  }
+  a{
+    text-decoration: none;
+  }
+
+  b{
+    color: blue;
+  }
